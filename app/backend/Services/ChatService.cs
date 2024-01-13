@@ -121,7 +121,7 @@ namespace CustomerSupportServiceSample.Services
 
                 var sendChatMessageOptions = new SendChatMessageOptions()
                 {
-                    Content = "Thank you, I'm calling you now, and you can close this chat if you'd like.",
+                    Content = "ありがとうございます。不要でしたらこのチャットウィンドウは閉じて頂いても構いません。",
                     MessageType = ChatMessageType.Text
                 };
                 sendChatMessageOptions.Metadata.Add("SenderType", "bot");
