@@ -1,4 +1,6 @@
-# Customer service sample application with Azure Communication Services and Azure OpenAI
+# Azure Communication Services と Azure OpenAI を連携させたカスタマーサポートサンプル
+## Webinarの内容
+公開後アップデート予定。
 
 以下のコードサンプルでは、Azure Communication Services と Azure OpenAI Service、および Azure AI Services（以前はCognitive Servicesとして知られていました）を組み合わせて、インテリジェントなカスタマーサービスソリューションを作成する方法を学びます。 会社のナレッジと顧客会話データを使用して、質問に答えたり、通話を開始したり、要約を提供したりする自然言語コミュニケーション体験を作成する方法を説明します。
 
